@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link, Outlet } from 'react-router-dom'
 import { getInvoices } from './data.js'
 
 export default function Invoices() {
